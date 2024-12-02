@@ -32,7 +32,7 @@ Follow these steps to build and run the Dockerized application:
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/your-username/revenue-computation-app.git
+    git clone https://github.com/namankumar234/revenue-computation-app.git
     cd revenue-computation-app
     ```
 
